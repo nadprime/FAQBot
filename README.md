@@ -1,4 +1,4 @@
-# ProtoBot
+# FAQBot
 
 ## Smart IGNOU Hackathon
 
